@@ -12,6 +12,7 @@ basic:
         - 640
         - 1024
         - 1200
+        - 1440
     pages:
         - /
         - /news
@@ -28,7 +29,7 @@ advanced:
     delay: 15
     scroll: true
     headers:
-        - { header: '', value: '' }
+        - { value: '', header: '' }
     cookies: ''
     custom_js: ''
     custom_css: ''
